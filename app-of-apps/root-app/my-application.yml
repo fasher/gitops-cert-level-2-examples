@@ -17,7 +17,7 @@ spec:
     targetRevision: HEAD
     path: ./app-of-apps/my-app-list
     directory: 
-      recurse: ture
+      recurse: true
    
   # Destination cluster and namespace to deploy the application
   destination:
